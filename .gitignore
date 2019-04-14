@@ -1,3 +1,7 @@
+*/migrations/*
+.qiniu_pythonsdk_hostscache.json
+media/uploads/*
+.idea*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
